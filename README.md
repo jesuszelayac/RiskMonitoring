@@ -6,4 +6,4 @@ Un modelo de riesgo en banca es una herramienta que utiliza técnicas matemátic
 
 ### 📚 Diccionario de Archivos
 
-* `Funciones_Recurrentes.ipynb`: Notebook con las funciones recurrentes puedes visualizarlo tambien [Aqui]([http://example.net/](https://nbviewer.org/github/jesuszelayac/RiskMonitoring/blob/main/Funciones_Recurrentes.ipynb))
+* `Funciones_Recurrentes.ipynb`: Notebook con las funciones recurrentes puedes visualizarlo tambien [Aquí](https://nbviewer.org/github/jesuszelayac/RiskMonitoring/blob/main/Funciones_Recurrentes.ipynb)
