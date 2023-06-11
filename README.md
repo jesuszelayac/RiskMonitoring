@@ -6,5 +6,4 @@ Un modelo de riesgo en banca es una herramienta que utiliza técnicas matemátic
 
 ### 📚 Diccionario de Archivos
 
-* `funciones.py`: Este archivo contiene, por el momento, la estructura en código usada para las funciones recurrentes. Todavía no está en formato de función.
-* 
+* `Funciones_Recurrentes.ipynb`: Notebook con las funciones recurrentes puedes visualizarlo tambien [Aqui]([http://example.net/](https://nbviewer.org/github/jesuszelayac/RiskMonitoring/blob/main/Funciones_Recurrentes.ipynb))
